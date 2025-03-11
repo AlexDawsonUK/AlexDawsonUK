@@ -11,4 +11,4 @@ Hello 👋, I'm **Alexander Dawson**.
 - I've taught a course on Web design and spoken at conferences, academic lectures, and podcasts.
 - I've written close to **100** articles on Web design and development.
 - I've created many open-source projects and contributed to others (like the W3C CSS 2.1 Test Suite).
-- I've also won awards, and am a member of several trade groups.
+- I've also won awards, and am a member of several industry groups.
