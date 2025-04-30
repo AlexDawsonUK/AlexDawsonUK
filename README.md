@@ -12,4 +12,4 @@ Hello 👋, I'm **Alexander Dawson**.
 - I've taught a course on Web design and spoken at conferences, academic lectures, and podcasts.
 - I've written close to **100** articles on Web design and development.
 - I've created many open-source projects and contributed to others (like the W3C CSS 2.1 Test Suite).
-- I'm also member and contributor to industry groups like [Climate Action.tech](https://climateaction.tech/).
+- I'm also member and contributor to industry groups like [ClimateAction.tech](https://climateaction.tech/).
