@@ -5,7 +5,7 @@ Hello 👋, I'm **Alexander Dawson**.
 - I've been building websites for over **25** years.
 - My specialisms include Web sustainability, inclusive design, and front-end performance.
 - I'm a W3C Invited Expert in the [Sustainable Web Interest Group](https://www.w3.org/groups/ig/sustainableweb/).
-- I'm the editor of and a contributor to the [W3C Web Sustainability Guidelines](https://w3c.github.io/sustainableweb-wsg/) (and its [other deliverables](https://w3c.github.io/sustainableweb-wsg/README.html#work)).
+- I'm the editor of and a contributor to the [W3C Web Sustainability Guidelines](https://www.w3.org/TR/web-sustainability-guidelines/) (and its [other deliverables](https://w3c.github.io/sustainableweb-wsg/README.html#work)).
 - I'm collaborating with others at the [Green Software Foundation](https://greensoftware.foundation/) on an [SCI for Web specification](https://greensoftware.foundation/articles/the-green-software-foundation-and-world-wide-web-consortium-w3c-collaborate-to-ad). 
 - I'm a contributing author of the [HTTP Archive Web Almanac](https://almanac.httparchive.org/en/2024/sustainability) (_Sustainability Chapter_).
 - I've published [academic research](https://websitesustainability.com/#content) into Web sustainability.
