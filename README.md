@@ -11,6 +11,6 @@ Hello 👋, I'm **Alexander Dawson**.
 - I've published [academic research](https://websitesustainability.com/#content) into web sustainability.
 - I've authored (or co-authored) **10** books or eBooks on web design or development.
 - I've taught a course on web design and spoken at conferences, academic lectures, and podcasts.
-- I've written close to **100** guest articles on web design and development for blogs, magazines, and journals.
+- I've written close to **100** articles on web design and development for blogs, magazines, and journals.
 - I've created many open-source projects and contributed to others (like the W3C CSS 2.1 Test Suite).
 - I'm also member and contributor to industry groups such as [ClimateAction.tech](https://climateaction.tech/).
