@@ -13,5 +13,5 @@ Hello 👋, I'm **Alexander Dawson**.
 - I've taught a course on web design and spoken at conferences, academic lectures, and podcasts.
 - I've written close to **100** articles on web design and development for blogs, magazines, and journals.
 - I've created many open-source projects including [Printed](https://printedcss.com/), [Medica11y](https://medica11y.com/), and [AssetConfig](https://assetconfig.com/).
-- I've contributed to others including ReSpec and W3C CSS 2.1 Test Suite.
+- I've contributed to other projects including ReSpec and W3C CSS 2.1 Test Suite.
 - I'm also member and contributor to industry groups such as [ClimateAction.tech](https://climateaction.tech/).
