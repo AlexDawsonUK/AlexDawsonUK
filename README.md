@@ -10,7 +10,7 @@ Hello 👋, I'm **Alexander Dawson**.
 - I'm a contributing author of the [HTTP Archive Web Almanac](https://almanac.httparchive.org/en/2024/sustainability) (_2024 Sustainability Chapter_).
 - I've published [academic research](https://websitesustainability.com/#content) into web sustainability.
 - I've authored or co-authored **10** books or eBooks on web design or development.
-- I've taught a course on web design and spoken at conferences, academic lectures, and podcasts.
+- I've taught a course on web design and spoken at events, conferences, academic lectures, and podcasts.
 - I've written close to **100** articles on web design and development for blogs, magazines, and journals.
 - I've created many open-source projects including [Printed](https://printedcss.com/), [Medica11y](https://medica11y.com/), and [AssetConfig](https://assetconfig.com/).
 - I've contributed to other projects including ReSpec and W3C CSS 2.1 Test Suite.
