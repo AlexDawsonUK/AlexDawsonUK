@@ -17,6 +17,6 @@ I have **25+** years of web development experience, specialising in web sustaina
 - I've written close to **100** articles on web design and development for blogs, magazines, and journals.
 - I've taught a course on web design and spoken at events, conferences, academic lectures, and podcasts.
 
-### Open Source
+### Projects & Open Source
 - I've created open-source projects including [Printed](https://printedcss.com/), [Medica11y](https://medica11y.com/), and [AssetConfig](https://assetconfig.com/).
 - I've contributed to other projects including ReSpec and W3C CSS 2.1 Test Suite.
