@@ -7,7 +7,7 @@ I have **25+** years of web development experience, specialising in web sustaina
 ### Standards & Industry
 - I'm a W3C Invited Expert in the [Sustainable Web Interest Group](https://www.w3.org/groups/ig/sustainableweb/).
 - I'm the lead editor of and contributor to [W3C Web Sustainability Guidelines](https://www.w3.org/TR/web-sustainability-guidelines/) (and its [other deliverables](https://w3c.github.io/sustainableweb-wsg/README.html#work)).
-- I'm collaborating at the [Green Software Foundation](https://greensoftware.foundation/) on the [SCI for Web](https://greensoftware.foundation/articles/designing-sci-web-what-we-agreed-and-what-comes-next) project.
+- I'm collaborating at the [Green Software Foundation](https://greensoftware.foundation/) on the [SCI for Web](https://greensoftware.foundation/standards/sci-web/) project.
 - I'm also an assembly member and contributor to [ClimateAction.tech](https://climateaction.tech/).
 
 ### Writing & Research
